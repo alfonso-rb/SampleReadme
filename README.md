@@ -31,5 +31,5 @@ Edit as you see fit. It's the template.
 
 Alfonso Brown
 - @AlfieRB (https://twitter.com/AlfieRB)
-- alfonsob@acbss.com
+- alfonsobATacbssDOTcom
 - https://github.com/alfonso-rb
